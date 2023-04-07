@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: DESKTOP-7CH71U5
+  vmImage: Hosted Agent
 
 steps:
 - task: Maven@3
